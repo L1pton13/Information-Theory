@@ -65,7 +65,7 @@
             this.gbMethod.Controls.Add(this.rbRailFence);
             this.gbMethod.Location = new System.Drawing.Point(13, 13);
             this.gbMethod.Name = "gbMethod";
-            this.gbMethod.Size = new System.Drawing.Size(316, 100);
+            this.gbMethod.Size = new System.Drawing.Size(315, 121);
             this.gbMethod.TabIndex = 0;
             this.gbMethod.TabStop = false;
             this.gbMethod.Text = "Метод шифрования";
@@ -102,7 +102,7 @@
             this.gbParams.Controls.Add(this.lblRails);
             this.gbParams.Location = new System.Drawing.Point(357, 13);
             this.gbParams.Name = "gbParams";
-            this.gbParams.Size = new System.Drawing.Size(367, 100);
+            this.gbParams.Size = new System.Drawing.Size(352, 121);
             this.gbParams.TabIndex = 1;
             this.gbParams.TabStop = false;
             this.gbParams.Text = "Параметры";
@@ -157,7 +157,7 @@
             this.gbInput.Controls.Add(this.btnOpenFile);
             this.gbInput.Location = new System.Drawing.Point(13, 140);
             this.gbInput.Name = "gbInput";
-            this.gbInput.Size = new System.Drawing.Size(316, 222);
+            this.gbInput.Size = new System.Drawing.Size(315, 232);
             this.gbInput.TabIndex = 2;
             this.gbInput.TabStop = false;
             this.gbInput.Text = "Входные данные";
@@ -199,7 +199,7 @@
             this.gbOutput.Controls.Add(this.btnSaveFile);
             this.gbOutput.Location = new System.Drawing.Point(357, 140);
             this.gbOutput.Name = "gbOutput";
-            this.gbOutput.Size = new System.Drawing.Size(367, 222);
+            this.gbOutput.Size = new System.Drawing.Size(352, 232);
             this.gbOutput.TabIndex = 3;
             this.gbOutput.TabStop = false;
             this.gbOutput.Text = "Результат";
@@ -251,7 +251,7 @@
             this.gbActions.Controls.Add(this.btnEncrypt);
             this.gbActions.Location = new System.Drawing.Point(13, 378);
             this.gbActions.Name = "gbActions";
-            this.gbActions.Size = new System.Drawing.Size(711, 60);
+            this.gbActions.Size = new System.Drawing.Size(696, 63);
             this.gbActions.TabIndex = 4;
             this.gbActions.TabStop = false;
             // 
@@ -298,12 +298,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(727, 464);
             this.Controls.Add(this.gbActions);
             this.Controls.Add(this.gbOutput);
             this.Controls.Add(this.gbInput);
             this.Controls.Add(this.gbParams);
             this.Controls.Add(this.gbMethod);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Ciphers";
             this.gbMethod.ResumeLayout(false);
