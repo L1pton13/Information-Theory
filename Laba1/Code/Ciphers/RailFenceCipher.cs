@@ -187,20 +187,5 @@ namespace Ciphers
 
             return result.ToString();
         }
-
-        /// <summary>
-        /// Вспомогательный метод для проверки (можно удалить потом)
-        /// </summary>
-        public static string TestEncryption(string text, int rails)
-        {
-            string encrypted = Encrypt(text, rails);
-            string decrypted = Decrypt(encrypted, rails);
-
-            return $"Исходный: {text}\n" +
-                   $"Очищенный: {CleanText(text)}\n" +
-                   $"Зашифрованный: {encrypted}\n" +
-                   $"Расшифрованный: {decrypted}\n" +
-                   $"Совпадает: {CleanText(text) == decrypted}";
-        }
     }
 }

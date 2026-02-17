@@ -19,6 +19,8 @@ namespace Ciphers
             InitializeComponent();
         }
 
+        private string _generatedProgressiveKey = "";
+
         private void button1_Click(object sender, EventArgs e)
         {
 
@@ -41,9 +43,28 @@ namespace Ciphers
                     // Выводим результат
                     txtOutput.Text = encryptedText;
                 }
-                else
+                else if (rbVigenere.Checked)
                 {
+                    // Шифрование Виженером
+                    string inputText = txtInput.Text;
+                    string key = txtKey.Text;
 
+                    if (string.IsNullOrWhiteSpace(key))
+                    {
+                        MessageBox.Show("Введите ключевое слово!", "Предупреждение",
+                            MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
+
+                    // Шифруем
+                    string encryptedText = VigenereCipher.Encrypt(inputText, key);
+                    txtOutput.Text = encryptedText;
+
+                    // Получаем прогрессивный ключ для отображения
+                    _generatedProgressiveKey = VigenereCipher.GetProgressiveKeyString(inputText, key);
+                    txtKey.Text = _generatedProgressiveKey;
+                    // Можно также показать ключ в отдельном текстбоксе, если есть
+                    // txtProgressiveKey.Text = _generatedProgressiveKey;
                 }
             }
             catch (Exception ex)
@@ -78,10 +99,25 @@ namespace Ciphers
                     // Выводим результат
                     txtOutput.Text = decryptedText;
 
-                   }
-                else
+                }
+                else if  (rbVigenere.Checked)
                 {
+                    // Дешифрование Виженера
+                    string inputText = txtInput.Text;
+                    string key = txtKey.Text;
 
+                    if (string.IsNullOrWhiteSpace(key))
+                    {
+                        MessageBox.Show("Введите ключевое слово!", "Предупреждение",
+                            MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
+
+                    string decryptedText = VigenereCipher.Decrypt(inputText, key);
+                    txtOutput.Text = decryptedText;
+
+                    _generatedProgressiveKey = VigenereCipher.GetProgressiveKeyString(inputText, key);
+                    txtKey.Text = _generatedProgressiveKey;
                 }
             }
             catch (Exception ex)
@@ -95,6 +131,7 @@ namespace Ciphers
         {
             txtInput.Clear();
             txtOutput.Clear();
+            txtKey.Clear();
         }
 
         private void btnOpenFile_Click(object sender, EventArgs e)
@@ -144,9 +181,11 @@ namespace Ciphers
         {
             if (rbRailFence.Checked)
             {
-                // Показываем параметры для изгороди
                 lblRails.Visible = true;
                 numRails.Visible = true;
+
+                lblKey.Visible = false;
+                txtKey.Visible = false;
             }
         }
 
@@ -154,9 +193,11 @@ namespace Ciphers
         {
             if (rbVigenere.Checked)
             {
-                // Прячем параметры для изгороди
                 lblRails.Visible = false;
                 numRails.Visible = false;
+
+                lblKey.Visible = true;
+                txtKey.Visible = true;
             }
         }
     }
