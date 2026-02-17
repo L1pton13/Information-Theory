@@ -33,9 +33,9 @@
             this.rbRailFence = new System.Windows.Forms.RadioButton();
             this.gbParams = new System.Windows.Forms.GroupBox();
             this.txtKey = new System.Windows.Forms.TextBox();
-            this.lbKey = new System.Windows.Forms.Label();
+            this.lblKey = new System.Windows.Forms.Label();
             this.numRails = new System.Windows.Forms.NumericUpDown();
-            this.lbRails = new System.Windows.Forms.Label();
+            this.lblRails = new System.Windows.Forms.Label();
             this.gbInput = new System.Windows.Forms.GroupBox();
             this.btnClearInput = new System.Windows.Forms.Button();
             this.txtInput = new System.Windows.Forms.TextBox();
@@ -79,6 +79,7 @@
             this.rbVigenere.TabIndex = 1;
             this.rbVigenere.Text = "Виженер (прогрессивный ключ)";
             this.rbVigenere.UseVisualStyleBackColor = true;
+            this.rbVigenere.CheckedChanged += new System.EventHandler(this.rbVigenere_CheckedChanged);
             // 
             // rbRailFence
             // 
@@ -91,13 +92,14 @@
             this.rbRailFence.TabStop = true;
             this.rbRailFence.Text = "Железнодорожная изгородь";
             this.rbRailFence.UseVisualStyleBackColor = true;
+            this.rbRailFence.CheckedChanged += new System.EventHandler(this.rbRailFence_CheckedChanged);
             // 
             // gbParams
             // 
             this.gbParams.Controls.Add(this.txtKey);
-            this.gbParams.Controls.Add(this.lbKey);
+            this.gbParams.Controls.Add(this.lblKey);
             this.gbParams.Controls.Add(this.numRails);
-            this.gbParams.Controls.Add(this.lbRails);
+            this.gbParams.Controls.Add(this.lblRails);
             this.gbParams.Location = new System.Drawing.Point(357, 13);
             this.gbParams.Name = "gbParams";
             this.gbParams.Size = new System.Drawing.Size(367, 100);
@@ -112,15 +114,15 @@
             this.txtKey.Size = new System.Drawing.Size(100, 26);
             this.txtKey.TabIndex = 3;
             // 
-            // lbKey
+            // lblKey
             // 
-            this.lbKey.AutoSize = true;
-            this.lbKey.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.lbKey.Location = new System.Drawing.Point(188, 26);
-            this.lbKey.Name = "lbKey";
-            this.lbKey.Size = new System.Drawing.Size(50, 20);
-            this.lbKey.TabIndex = 2;
-            this.lbKey.Text = "Ключ";
+            this.lblKey.AutoSize = true;
+            this.lblKey.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.lblKey.Location = new System.Drawing.Point(188, 26);
+            this.lblKey.Name = "lblKey";
+            this.lblKey.Size = new System.Drawing.Size(50, 20);
+            this.lblKey.TabIndex = 2;
+            this.lblKey.Text = "Ключ";
             // 
             // numRails
             // 
@@ -139,15 +141,14 @@
             0,
             0});
             // 
-            // lbRails
+            // lblRails
             // 
-            this.lbRails.AutoSize = true;
-            this.lbRails.Location = new System.Drawing.Point(7, 26);
-            this.lbRails.Name = "lbRails";
-            this.lbRails.Size = new System.Drawing.Size(141, 20);
-            this.lbRails.TabIndex = 0;
-            this.lbRails.Text = "Высота изгороди";
-            this.lbRails.Click += new System.EventHandler(this.label1_Click);
+            this.lblRails.AutoSize = true;
+            this.lblRails.Location = new System.Drawing.Point(7, 26);
+            this.lblRails.Name = "lblRails";
+            this.lblRails.Size = new System.Drawing.Size(141, 20);
+            this.lblRails.TabIndex = 0;
+            this.lblRails.Text = "Высота изгороди";
             // 
             // gbInput
             // 
@@ -169,6 +170,7 @@
             this.btnClearInput.TabIndex = 2;
             this.btnClearInput.Text = "Очистить поле";
             this.btnClearInput.UseVisualStyleBackColor = true;
+            this.btnClearInput.Click += new System.EventHandler(this.btnClearInput_Click);
             // 
             // txtInput
             // 
@@ -187,6 +189,7 @@
             this.btnOpenFile.TabIndex = 0;
             this.btnOpenFile.Text = "Открыть файл";
             this.btnOpenFile.UseVisualStyleBackColor = true;
+            this.btnOpenFile.Click += new System.EventHandler(this.btnOpenFile_Click);
             // 
             // gbOutput
             // 
@@ -209,6 +212,7 @@
             this.btnCopy.TabIndex = 3;
             this.btnCopy.Text = "Копировать";
             this.btnCopy.UseVisualStyleBackColor = true;
+            this.btnCopy.Click += new System.EventHandler(this.btnCopy_Click);
             // 
             // txtOutput
             // 
@@ -238,6 +242,7 @@
             this.btnSaveFile.TabIndex = 0;
             this.btnSaveFile.Text = "Сохранить";
             this.btnSaveFile.UseVisualStyleBackColor = true;
+            this.btnSaveFile.Click += new System.EventHandler(this.btnSaveFile_Click);
             // 
             // gbActions
             // 
@@ -258,6 +263,7 @@
             this.btnClearAll.TabIndex = 2;
             this.btnClearAll.Text = "Очистить всё";
             this.btnClearAll.UseVisualStyleBackColor = true;
+            this.btnClearAll.Click += new System.EventHandler(this.btnClearAll_Click);
             // 
             // btnDecrypt
             // 
@@ -267,6 +273,7 @@
             this.btnDecrypt.TabIndex = 1;
             this.btnDecrypt.Text = "Расшифровать";
             this.btnDecrypt.UseVisualStyleBackColor = true;
+            this.btnDecrypt.Click += new System.EventHandler(this.btnDecrypt_Click);
             // 
             // btnEncrypt
             // 
@@ -276,6 +283,7 @@
             this.btnEncrypt.TabIndex = 0;
             this.btnEncrypt.Text = "Зашифровать";
             this.btnEncrypt.UseVisualStyleBackColor = true;
+            this.btnEncrypt.Click += new System.EventHandler(this.btnEncrypt_Click);
             // 
             // openFileDialog1
             // 
@@ -320,10 +328,10 @@
         private System.Windows.Forms.GroupBox gbOutput;
         private System.Windows.Forms.RadioButton rbVigenere;
         private System.Windows.Forms.RadioButton rbRailFence;
-        private System.Windows.Forms.Label lbRails;
+        private System.Windows.Forms.Label lblRails;
         private System.Windows.Forms.NumericUpDown numRails;
         private System.Windows.Forms.TextBox txtKey;
-        private System.Windows.Forms.Label lbKey;
+        private System.Windows.Forms.Label lblKey;
         private System.Windows.Forms.Button btnOpenFile;
         private System.Windows.Forms.Button btnClearInput;
         private System.Windows.Forms.TextBox txtInput;
