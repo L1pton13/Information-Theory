@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba2\\LfsrCipher\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|c:\\users\\lenovo\\onedrive\\desktop\\information-theory\\laba2\\lfsrcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|c:\\users\\lenovo\\onedrive\\desktop\\information-theory\\laba2\\lfsrcipher\\lfsr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|solutionrelative:lfsr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|c:\\users\\lenovo\\onedrive\\desktop\\information-theory\\laba2\\lfsrcipher\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|c:\\users\\lenovo\\onedrive\\desktop\\information-theory\\laba2\\lfsrcipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A51FD02-0C59-42BB-E075-1F95BEB38CC8}|LfsrCipher.csproj|c:\\users\\lenovo\\onedrive\\desktop\\information-theory\\laba2\\lfsrcipher\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Lfsr.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba2\\LfsrCipher\\Lfsr.cs",
               "RelativeDocumentMoniker": "Lfsr.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LfsrCipher.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba2\\LfsrCipher\\LfsrCipher.cs",
               "RelativeDocumentMoniker": "LfsrCipher.cs",
@@ -55,23 +55,25 @@
               "RelativeToolTip": "LfsrCipher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T10:04:31.286Z"
+              "WhenOpened": "2026-03-15T10:04:31.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba2\\LfsrCipher\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba2\\LfsrCipher\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAwwJUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAA/wJUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:52:31.957Z"
+              "WhenOpened": "2026-03-15T09:52:31.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba2\\LfsrCipher\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -79,7 +81,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:51:32.519Z"
+              "WhenOpened": "2026-03-15T09:51:32.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Release\net8.0-windows\win-x64\LfsrCipher.exe
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Release\net8.0-windows\win-x64\LfsrCipher.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Release\net8.0-windows\win-x64\LfsrCipher.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Release\net8.0-windows\win-x64\LfsrCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Release\net8.0-windows\win-x64\LfsrCipher.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\LfsrCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\LfsrCipher.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\LfsrCipher.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\LfsrCipher.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\LfsrCipher.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\LfsrCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\refint\LfsrCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\LfsrCipher.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\LfsrCipher.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Release\net8.0-windows\win-x64\ref\LfsrCipher.dll
