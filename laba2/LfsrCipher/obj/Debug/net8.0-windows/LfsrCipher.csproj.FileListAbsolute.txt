@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Debug\net8.0-windows\LfsrCipher.exe
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Debug\net8.0-windows\LfsrCipher.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Debug\net8.0-windows\LfsrCipher.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Debug\net8.0-windows\LfsrCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\bin\Debug\net8.0-windows\LfsrCipher.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\LfsrCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\LfsrCipher.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\LfsrCipher.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\LfsrCipher.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\LfsrCipher.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\LfsrCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\refint\LfsrCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\LfsrCipher.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\LfsrCipher.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher\obj\Debug\net8.0-windows\ref\LfsrCipher.dll
