@@ -1,0 +1,5 @@
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher.exe
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba2\LfsrCipher.pdb
