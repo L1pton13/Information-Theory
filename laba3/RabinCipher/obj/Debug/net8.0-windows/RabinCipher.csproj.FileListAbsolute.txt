@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\bin\Debug\net8.0-windows\RabinCipher.exe
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\bin\Debug\net8.0-windows\RabinCipher.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\bin\Debug\net8.0-windows\RabinCipher.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\bin\Debug\net8.0-windows\RabinCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\bin\Debug\net8.0-windows\RabinCipher.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.MainForm.resources
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.sourcelink.json
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\refint\RabinCipher.dll
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\RabinCipher.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba3\RabinCipher\obj\Debug\net8.0-windows\ref\RabinCipher.dll
