@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\bin\Debug\DSA.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\bin\Debug\DSA.exe
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\bin\Debug\DSA.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\obj\Debug\DSA.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\obj\Debug\DSA.Form1.resources
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\obj\Debug\DSA.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\obj\Debug\DSA.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\obj\Debug\DSA.exe
+C:\Users\Lenovo\OneDrive\Desktop\Information-Theory\laba4\DSA\obj\Debug\DSA.pdb

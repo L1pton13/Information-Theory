@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|c:\\users\\lenovo\\onedrive\\desktop\\information-theory\\laba4\\dsa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|c:\\users\\lenovo\\onedrive\\desktop\\information-theory\\laba4\\dsa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\dsaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|solutionrelative:dsaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\dsamath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|solutionrelative:dsamath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{290AAC02-7FC7-46C0-992A-48121BF7C267}|DSA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:08:29.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DSAService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\DSAService.cs",
+              "RelativeDocumentMoniker": "DSAService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\DSAService.cs",
+              "RelativeToolTip": "DSAService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:05:39.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DSAMath.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\DSAMath.cs",
+              "RelativeDocumentMoniker": "DSAMath.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\DSAMath.cs",
+              "RelativeToolTip": "DSAMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:05:04.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAALQBAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:03:49.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Information-Theory\\laba4\\DSA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:00:59.795Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
